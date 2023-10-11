@@ -1,0 +1,14 @@
+License
+=======
+
+The software is provided under a BSD-3-Clause license (below). Contributions to
+this project are accepted under the same license with developer sign-off.
+
+Individual files contain the following tag instead of the full license text.
+
+::
+
+    SPDX-License-Identifier:    BSD-3-Clause
+
+This enables machine processing of license information based on the SPDX
+License Identifiers that are here available: http://spdx.org/licenses/

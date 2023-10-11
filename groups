@@ -1,0 +1,5 @@
+# UUID                                                                                	Group Name
+#
+ldap:CN=CFIUS_IP_SW_boot_integrators,OU=Cavium Security Groups,DC=caveonetworks,DC=com	ldap/CFIUS_IP_SW_boot_integrators
+user:kostap                                                                           	user/Kostya Porotchkin (kostap)
+user:sgarapati                                                                        	user/Suneel Garapati (sgarapati)
